@@ -1,1 +1,1 @@
-# mazutalorstheme
+# mazutalors
