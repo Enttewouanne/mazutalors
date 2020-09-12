@@ -1,14 +1,14 @@
 [ 
 {
-    "author" : "mazutalors", 
-    "name" : "mazutalors", 
-    "keyWords" : "theme",
-    "version" : "1.0.0",
-    "dofusVersion" : "2.56", 
-    "description" : "alpha", 
-    "url" : "https://github.com/Enttewouanne/mazutalorstheme/blob/master/mazutalors.zip?raw=true",
-    "previewUrl" : "https://raw.githubusercontent.com/Enttewouanne/mazutalorstheme/master/darkStonePreview.jpg", 
-    "creationDate" : "12/09/2020", 
-    "modificationDate" : "12/09/2020"
-    } 
+"author" : "mazutalors", 
+"name" : "mazutalors", 
+"keyWords" : "theme",
+"version" : "1.0.0",
+"dofusVersion" : "2.56", 
+"description" : "alpha", 
+"url" : "https://github.com/Enttewouanne/mazutalorstheme/blob/master/mazutalors.zip?raw=true",
+"previewUrl" : "https://raw.githubusercontent.com/Enttewouanne/mazutalorstheme/master/darkStonePreview.jpg", 
+"creationDate" : "12/09/2020", 
+"modificationDate" : "12/09/2020"
+} 
 ]
